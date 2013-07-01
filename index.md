@@ -1,46 +1,38 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Blog
+tagline: How heavy is fish?
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<div id="rtop" class="sidebar-widget">
+  <div class="sidebar-stack">
+    <ul>
+      <li><img src="{{ ASSET_PATH }}/images/portrait1.jpeg" alt="icke"/></li>
+      <li>
+        <a href="http://stackexchange.com/users/c9debc730f104d178747abbdb0c7c059">
+          <img src="http://stackexchange.com/users/flair/c9debc730f104d178747abbdb0c7c059.png" width="208" height="58" alt="profile for hroptatyr on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for hroptatyr on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+How heavy is fish?
+==================
 
-## Update Author Attributes
+The answer to this question can be found in one of my projects.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+- [dateutils](http://www.fresse.org/dateutils/) Managing dates and times in the command line.
+- [uterus](https://github.com/hroptatyr/uterus) Universal tick encoder library and tools.
+- [rotz](http://www.fresse.org/rotz/) Command-line tagging library with emphasis on bulk operations.
+- [truffle](https://github.com/hroptatyr/truffle) Rolling over futures contracts.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+Other appearances
+=================
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+- [My g+ page](https://plus.google.com/115345886852655886788)
+- [My twitter profile](http://twitter.com/hroptatyr)
+- [My Ohloh profile](https://www.ohloh.net/accounts/hroptatyr)
 
 
