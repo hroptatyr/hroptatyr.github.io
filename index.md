@@ -18,9 +18,6 @@ tagline: How heavy is fish?
   </div>
 </div>
 
-How heavy is fish?
-==================
-
 The answer to this question can be found in one of my projects.
 
 - [dateutils](http://www.fresse.org/dateutils/) Managing dates and times in the command line.
