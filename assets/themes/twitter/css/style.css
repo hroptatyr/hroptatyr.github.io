@@ -63,3 +63,36 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+
+/*------------------------------------------------------------------------------
+     Sidebar
+------------------------------------------------------------------------------*/
+
+div.sidebar-widget {
+  position: relative;
+  float: right;
+  margin: 0px 0 50px 50px;
+}
+
+div.sidebar-stack {
+  padding: 3px;
+  background: #EEE;
+  display: block;
+  text-align: center;
+  min-width: 160px;
+}
+
+div.sidebar-stack > ul {
+  list-style: none;
+  background: #fafafb;
+  margin: 0px;
+}
+
+div.sidebar-stack > ul > li {
+  text-decoration: none;
+}
+
+div.sidebar-stack > ul > li:hover {
+  text-decoration: none;
+}
