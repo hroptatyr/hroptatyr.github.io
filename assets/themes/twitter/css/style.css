@@ -64,10 +64,27 @@
   border: 1px solid #4c964d;
   color: #FFF; }
 
+/* headings */
+h1 {
+	font-size: 20px;
+}
+h2 {
+	font-size: 16px;
+}
+h3 {
+	font-size:14px;
+}
+h4 {
+	font-size:14px;
+}
+h5 {
+	font-size:14px;
+}
+h6 {
+	font-size:12px;
+}
 
-/*------------------------------------------------------------------------------
-     Sidebar
-------------------------------------------------------------------------------*/
+/* sidebar */
 
 div.sidebar-widget {
   position: relative;
