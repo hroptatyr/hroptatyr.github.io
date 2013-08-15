@@ -28,6 +28,7 @@ The answer to this question can be found in one of my projects.
 Other appearances
 =================
 
+- [My open source report card](http://osrc.dfm.io/hroptatyr)
 - [My g+ page](https://plus.google.com/115345886852655886788)
 - [My twitter profile](http://twitter.com/hroptatyr)
 - [My Ohloh profile](https://www.ohloh.net/accounts/hroptatyr)
