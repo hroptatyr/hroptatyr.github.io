@@ -23,7 +23,7 @@ The answer to this question can be found in one of my projects.
 - [dateutils](http://www.fresse.org/dateutils/) Managing dates and times in the command line.
 - [uterus](https://github.com/hroptatyr/uterus) Universal tick encoder library and tools.
 - [rotz](http://www.fresse.org/rotz/) Command-line tagging library with emphasis on bulk operations.
-- [truffle](https://github.com/hroptatyr/truffle) Rolling over futures contracts.
+- [truffle](http://www.fresse.org/truffle/) Rolling over futures contracts.
 
 Other appearances
 =================
