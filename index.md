@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Sebastian Freundt
 tagline: How heavy is fish?
 ---
 {% include JB/setup %}
