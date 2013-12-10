@@ -21,9 +21,10 @@ tagline: How heavy is fish?
 The answer to this question can be found in one of my projects.
 
 - [dateutils](http://www.fresse.org/dateutils/) Managing dates and times in the command line.
-- [uterus](https://github.com/hroptatyr/uterus) Universal tick encoder library and tools.
+- [clitoris](http://www.fresse.org/clitoris/) Test harness for command line utilities.
 - [rotz](http://www.fresse.org/rotz/) Command-line tagging library with emphasis on bulk operations.
 - [truffle](http://www.fresse.org/truffle/) Rolling over futures contracts.
+- [uterus](https://github.com/hroptatyr/uterus) Universal tick encoder library and tools.
 
 Other appearances
 =================
