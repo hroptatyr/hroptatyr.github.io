@@ -30,6 +30,7 @@ The answer to this question can be found in one of my projects.
 Other appearances
 =================
 
+- [My github profile](https://github.com/hroptatyr)
 - [My open source report card](http://osrc.dfm.io/hroptatyr)
 - [My twitter profile](http://twitter.com/hroptatyr)
 - [My Ohloh profile](https://www.ohloh.net/accounts/hroptatyr)
