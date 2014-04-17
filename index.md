@@ -25,6 +25,8 @@ The answer to this question can be found in one of my projects.
 - [yuck](http://www.fresse.org/yuck/) Command-line option parser for C with support for umbrellas.
 - [rotz](http://www.fresse.org/rotz/) Command-line tagging library with emphasis on bulk operations.
 - [truffle](http://www.fresse.org/truffle/) Rolling over futures contracts.
+- [cattle](http://www.fresse.org/cattle/) Applying corporate action events to time series.
+- [echse](http://www.fresse.org/echse/) Processing holiday calendars and trading hours.
 - [uterus](https://github.com/hroptatyr/uterus) Universal tick encoder library and tools.
 
 Other appearances
