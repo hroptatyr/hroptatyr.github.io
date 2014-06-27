@@ -23,7 +23,7 @@ The answer to this question can be found in one of my projects.
 - [dateutils](http://www.fresse.org/dateutils/) Managing dates and times in the command line.
 - [clitoris](http://www.fresse.org/clitoris/) Test harness for command line utilities.
 - [yuck](http://www.fresse.org/yuck/) Command-line option parser for C with support for umbrellas.
-- [rotz](http://www.fresse.org/rotz/) Command-line tagging library with emphasis on bulk operations.
+- [glod](http://www.fresse.org/glod/) Command-line tools for the preprocessing stage of NLP workflows.
 - [truffle](http://www.fresse.org/truffle/) Rolling over futures contracts.
 - [cattle](http://www.fresse.org/cattle/) Applying corporate action events to time series.
 - [echse](http://www.fresse.org/echse/) Processing holiday calendars and trading hours.
