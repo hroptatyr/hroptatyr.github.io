@@ -54,6 +54,12 @@ title : Sitemap
 		<changefreq>daily</changefreq>
 	</url>
 
+	<url>
+		<loc>http://www.fresse.org/finner/</loc>
+		<priority>0.80</priority>
+		<changefreq>daily</changefreq>
+	</url>
+
 	<!-- autogen'd stuff 'ere -->
 {% for post in site.posts %}
 	<url>
