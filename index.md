@@ -28,7 +28,7 @@ The answer to this question can be found in one of my projects.
 - [truffle](http://www.fresse.org/truffle/) Rolling over futures contracts.
 - [cattle](http://www.fresse.org/cattle/) Applying corporate action events to time series.
 - [echse](http://www.fresse.org/echse/) Processing holiday calendars and trading hours.
-- [uterus](https://github.com/hroptatyr/uterus) Universal tick encoder library and tools.
+- [sample](http://www.fresse.org/sample/) Command-line tool to produce a sample of lines from files.
 
 Other appearances
 =================
