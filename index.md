@@ -10,9 +10,9 @@ tagline: How heavy is fish?
     <ul>
       <li><img src="{{ ASSET_PATH }}/images/portrait1.jpeg" alt="icke"/></li>
       <li>
-        <a href="http://stackexchange.com/users/c9debc730f104d178747abbdb0c7c059">
-          <img src="http://stackexchange.com/users/flair/c9debc730f104d178747abbdb0c7c059.png" width="208" height="58" alt="profile for hroptatyr on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for hroptatyr on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-        </a>
+	<a href="https://stackexchange.com/users/37553/hroptatyr">
+	  <img src="https://stackexchange.com/users/flair/37553.png" width="208" height="58" alt="profile for hroptatyr on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for hroptatyr on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
+	</a>
       </li>
     </ul>
   </div>
