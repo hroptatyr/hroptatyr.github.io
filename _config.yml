@@ -7,7 +7,7 @@ markdown: kramdown
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 safe: true
-pygments: true
+highlighter: rouge
 
 timezone: UTC
 

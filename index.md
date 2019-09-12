@@ -8,7 +8,7 @@ tagline: How heavy is fish?
 <div id="rtop" class="sidebar-widget">
   <div class="sidebar-stack">
     <ul>
-      <li><img src="{{ ASSET_PATH }}/images/portrait1.jpeg" alt="icke"/></li>
+      <li><img src="/assets/custom/images/portrait1.jpeg" alt="icke"/></li>
       <li>
 	<a href="https://stackexchange.com/users/37553/hroptatyr">
 	  <img src="https://stackexchange.com/users/flair/37553.png" width="208" height="58" alt="profile for hroptatyr on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for hroptatyr on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
